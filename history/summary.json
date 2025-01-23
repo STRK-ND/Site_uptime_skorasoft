@@ -16,5 +16,23 @@
     "timeMonth": 203,
     "timeYear": 203,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Skorasoft",
+    "url": "https://skorasoft.com",
+    "icon": "https://icons.duckduckgo.com/ip3/skorasoft.com.ico",
+    "slug": "skorasoft",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1226,
+    "timeDay": 1226,
+    "timeWeek": 1226,
+    "timeMonth": 1226,
+    "timeYear": 1226,
+    "dailyMinutesDown": {}
   }
 ]
