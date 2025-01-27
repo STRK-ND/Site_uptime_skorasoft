@@ -22,7 +22,7 @@
     "url": "https://skorasoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/skorasoft.com.ico",
     "slug": "skorasoft",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1074,
     "timeMonth": 1074,
     "timeYear": 1074,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-27": 0
+    }
   }
 ]
