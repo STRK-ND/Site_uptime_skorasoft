@@ -7,8 +7,7 @@ sites:
     url: https://rajat-kashyap-portfolio.vercel.app
   - name: ReadTheRise Blog
     url: https://readtherise.vercel.app
-  - name: Skorasoft
-    url: https://skorasoft.com
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
