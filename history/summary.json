@@ -4,35 +4,39 @@
     "url": "https://rajat-kashyap-portfolio.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/rajat-kashyap-portfolio.vercel.app.ico",
     "slug": "personal-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 132,
-    "timeWeek": 173,
-    "timeMonth": 173,
+    "timeDay": 0,
+    "timeWeek": 161,
+    "timeMonth": 175,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   },
   {
     "name": "ReadTheRise Blog",
     "url": "https://readtherise.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/readtherise.vercel.app.ico",
     "slug": "read-the-rise-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 138,
-    "timeWeek": 124,
-    "timeMonth": 141,
+    "timeDay": 0,
+    "timeWeek": 133,
+    "timeMonth": 140,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-12": 0
+    }
   }
 ]
